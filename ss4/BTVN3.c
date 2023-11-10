@@ -15,6 +15,7 @@ int main(){
 	printf("tien dien la :%d",sodien*20000);
 	}else if(150<=sodien<200){
 	printf("tien dien la :%d",sodien*25000);
-	}else {printf("tien dien la :%d",sodien*30000);
+	}else {
+		printf("tien dien la :%d",sodien*30000);
 	}
 }
